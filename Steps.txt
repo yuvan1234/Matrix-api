@@ -1,0 +1,3 @@
+1. Get your API KEy
+2. Then use the use effect hook to get the map details
+3.Then set the longitude and latitude in the use state hook 
